@@ -10,11 +10,6 @@ public class Coin_Move : MonoBehaviour
     public float sideforce = 100f;
     public float jumpspeed = 100f;
   
-
-
-
-
-
     // Update is called once per frame
     void FixedUpdate()
     {
